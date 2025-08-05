@@ -1,6 +1,3 @@
-# schoolwork
-Projects and assignments working through WGU courses
-
 # 👋 Hi, I'm Jason!
 
 I'm an aspiring data analyst making a career change after working in IT support. I'm currently pursuing my Bachelor's in Data Analytics at WGU and learning skills like Python, SQL, and data visualization.
