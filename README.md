@@ -13,19 +13,19 @@ I'm an aspiring data analyst making a career change after five years in IT suppo
 ---
 
 ## 🧰 Tools & Technologies
-- **Languages**: Python, SQL, DAX
+- **Languages**: Python, SQL
 - **Databases**: PostgreSQL, SQLite
-- **Analytics Tools**: Power BI, Excel
-- **Version Control**: Git, GitHub
+- **Other Tools**: Excel, Git, GitHub
 
 ---
 
 ## 📚 Featured School Projects
 
+- [🔗 Advanced Data Management (WGU)](https://github.com/jrose0215/adv-data-mgmt)  
+  A structured SQL project using a DVD rental dataset. Includes detailed and summary tables, stored procedures, triggers, and reporting logic designed to simulate real-world business operations and automated data refreshes.
+
 - [🔗 Weather Data Analysis (WGU D493)](https://github.com/jrose0215/weather-data-analysis)  
   A Python application that retrieves five years of historical weather data via the Open-Meteo API, stores it in an SQLite database using SQLAlchemy, and calculates summary metrics for analysis.
-
-<!-- Add more projects here as you complete them -->
 
 ---
 
