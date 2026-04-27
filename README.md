@@ -1,42 +1,19 @@
-# 👋 Hi, I'm Jason!
+# 📓 Schoolwork – WGU Data Analytics
 
-I'm an aspiring data analyst making a career change after five years in IT support. I'm currently pursuing my Bachelor's in Data Analytics at WGU, where I'm building hands-on skills in Python, SQL, and data visualization.
-
----
-
-## 💼 What I'm Working On
-- Designing and querying relational databases with PostgreSQL
-- Writing Python scripts for data cleaning and automation
-- Creating data visualizations and dashboards in Power BI
-- Building a portfolio of real-world projects using Git and GitHub
+A collection of projects and coursework completed as part of my Bachelor's in Data Analytics at Western Governors University. This repo documents hands-on work done throughout the program across Python, R, SQL, and data wrangling.
 
 ---
 
-## 🧰 Tools & Technologies
-- **Languages**: Python, SQL
-- **Databases**: PostgreSQL, SQLite
-- **Other Tools**: Excel, Git, GitHub
+## 📂 Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Advanced Data Management](https://github.com/jrose0215/adv-data-mgmt) | Structured SQL project using a DVD rental dataset with detailed/summary tables, stored procedures, triggers, and automated reporting logic | SQL, PostgreSQL |
+| [Weather Data Analysis](https://github.com/jrose0215/weather-data-analysis) | Python app that retrieves five years of historical weather data via the Open-Meteo API, stores it in SQLite using SQLAlchemy, and calculates summary metrics | Python, SQLite, SQLAlchemy |
+| [Bikeshare Data Exploration](https://github.com/jrose0215/schoolwork/tree/main/bikeshare-data-exploration) | Exploratory analysis of bikeshare trip data across NYC, Chicago, and Washington DC | R |
+| [Data Wrangling: School Neighborhood Poverty](https://github.com/jrose0215/schoolwork/tree/main/data-wrangling-school-poverty) | Data wrangling pipeline combining two U.S. Dept. of Education datasets to explore school neighborhood poverty | Python, pandas, matplotlib |
 
 ---
 
-## 📚 Featured School Projects
-- [🔗 Advanced Data Management (WGU)](https://github.com/jrose0215/adv-data-mgmt)  
-  A structured SQL project using a DVD rental dataset. Includes detailed and summary tables, stored procedures, triggers, and reporting logic designed to simulate real-world business operations and automated data refreshes.
-
-- [🔗 Weather Data Analysis (WGU D493)](https://github.com/jrose0215/weather-data-analysis)  
-  A Python application that retrieves five years of historical weather data via the Open-Meteo API, stores it in an SQLite database using SQLAlchemy, and calculates summary metrics for analysis.
-
-- [🔗 Bikeshare Data Exploration](https://github.com/jrose0215/schoolwork/tree/main/bikeshare-data-exploration)  
-  Exploratory analysis of bikeshare trip data from New York City, Chicago, and Washington DC using R. Investigates peak usage hours, popular start stations, and trip duration patterns across cities.
-
-- [🔗 Data Wrangling: School Neighborhood Poverty](https://github.com/jrose0215/schoolwork/tree/main/data-wrangling-school-poverty)  
-  A full data wrangling pipeline in Python using two U.S. Department of Education datasets. Covers multi-source data gathering, quality and tidiness assessment, cleaning, merging, and visualization to explore how neighborhood poverty varies across public schools nationwide.
-  
----
-
-## 📌 About This Repository
-
-This `schoolwork` repository is a collection of smaller assignments, practice scripts, and coursework completed as part of my studies at WGU. For larger, standalone projects, check out my other repos linked above.
-
----
-
+## 🔗 Standalone Portfolio Projects
+For larger independent projects, visit my [data analyst portfolio repo](https://github.com/jrose0215/data-analyst-portfolio).
