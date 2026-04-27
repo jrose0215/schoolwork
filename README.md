@@ -13,6 +13,8 @@ A collection of projects and coursework completed as part of my Bachelor's in Da
 | [Bikeshare Data Exploration](https://github.com/jrose0215/schoolwork/tree/main/bikeshare-data-exploration) | Exploratory analysis of bikeshare trip data across NYC, Chicago, and Washington DC | R |
 | [Data Wrangling: School Neighborhood Poverty](https://github.com/jrose0215/schoolwork/tree/main/data-wrangling-school-poverty) | Data wrangling pipeline combining two U.S. Dept. of Education datasets to explore school neighborhood poverty | Python, pandas, matplotlib |
 | [A/B Test Results Analysis](https://github.com/jrose0215/schoolwork/tree/main/ab-test-results-analysis) | Statistical analysis of an e-commerce A/B test using simulation-based hypothesis testing and logistic regression | Python, pandas, numpy, statsmodels |
+| [Supervised Learning: Finding Donors](https://github.com/jrose0215/schoolwork/tree/main/supervised-learning-finding-donors) | Compared Logistic Regression, Random Forest, and AdaBoost on U.S. Census data to predict income level; tuned best model with GridSearchCV | Python, scikit-learn, pandas |
+| [Unsupervised Learning: Customer Segments](https://github.com/jrose0215/schoolwork/tree/main/unsupervised-learning-customer-segments) | Used PCA and K-Means clustering on 900K German demographic records to identify which population segments over- and under-represent a mail-order company's customer base | Python, scikit-learn, pandas, seaborn |
 
 ---
 
