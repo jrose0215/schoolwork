@@ -12,6 +12,7 @@ A collection of projects and coursework completed as part of my Bachelor's in Da
 | [Weather Data Analysis](https://github.com/jrose0215/weather-data-analysis) | Python app that retrieves five years of historical weather data via the Open-Meteo API, stores it in SQLite using SQLAlchemy, and calculates summary metrics | Python, SQLite, SQLAlchemy |
 | [Bikeshare Data Exploration](https://github.com/jrose0215/schoolwork/tree/main/bikeshare-data-exploration) | Exploratory analysis of bikeshare trip data across NYC, Chicago, and Washington DC | R |
 | [Data Wrangling: School Neighborhood Poverty](https://github.com/jrose0215/schoolwork/tree/main/data-wrangling-school-poverty) | Data wrangling pipeline combining two U.S. Dept. of Education datasets to explore school neighborhood poverty | Python, pandas, matplotlib |
+| [A/B Test Results Analysis](https://github.com/jrose0215/schoolwork/tree/main/ab-test-results-analysis) | Statistical analysis of an e-commerce A/B test using simulation-based hypothesis testing and logistic regression | Python, pandas, numpy, statsmodels |
 
 ---
 
