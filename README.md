@@ -20,13 +20,15 @@ I'm an aspiring data analyst making a career change after five years in IT suppo
 ---
 
 ## 📚 Featured School Projects
-
 - [🔗 Advanced Data Management (WGU)](https://github.com/jrose0215/adv-data-mgmt)  
   A structured SQL project using a DVD rental dataset. Includes detailed and summary tables, stored procedures, triggers, and reporting logic designed to simulate real-world business operations and automated data refreshes.
 
 - [🔗 Weather Data Analysis (WGU D493)](https://github.com/jrose0215/weather-data-analysis)  
   A Python application that retrieves five years of historical weather data via the Open-Meteo API, stores it in an SQLite database using SQLAlchemy, and calculates summary metrics for analysis.
 
+- [🔗 Bikeshare Data Exploration](https://github.com/jrose0215/schoolwork/tree/main/bikeshare-data-exploration)  
+  Exploratory analysis of bikeshare trip data from New York City, Chicago, and Washington DC using R. Investigates peak usage hours, popular start stations, and trip duration patterns across cities.
+  
 ---
 
 ## 📌 About This Repository
