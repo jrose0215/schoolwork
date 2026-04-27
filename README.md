@@ -28,6 +28,9 @@ I'm an aspiring data analyst making a career change after five years in IT suppo
 
 - [🔗 Bikeshare Data Exploration](https://github.com/jrose0215/schoolwork/tree/main/bikeshare-data-exploration)  
   Exploratory analysis of bikeshare trip data from New York City, Chicago, and Washington DC using R. Investigates peak usage hours, popular start stations, and trip duration patterns across cities.
+
+- [🔗 Data Wrangling: School Neighborhood Poverty](https://github.com/jrose0215/schoolwork/tree/main/data-wrangling-school-poverty)  
+  A full data wrangling pipeline in Python using two U.S. Department of Education datasets. Covers multi-source data gathering, quality and tidiness assessment, cleaning, merging, and visualization to explore how neighborhood poverty varies across public schools nationwide.
   
 ---
 
